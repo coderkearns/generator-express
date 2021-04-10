@@ -1,0 +1,16 @@
+{
+  "name": "<%= name %>",
+  "scripts": {
+    "watch-css": "node-sass -qrw public/scss -o public/css",
+    "watch-js": "nodemon index.js",
+    "start": "concurrently npm:watch-css npm:watch-js"
+  },
+  "dependencies": {
+    "concurrently": "^6.0.1",
+    "cookie-parser": "^1.4.5",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node-sass": "^5.0.0"
+  }
+}
