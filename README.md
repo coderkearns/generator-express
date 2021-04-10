@@ -1,19 +1,19 @@
-# generator-js [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+# generator-express [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+>
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-js using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-express using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-js
+npm install -g generator-express
 ```
 
 Then generate your new project:
 
 ```bash
-yo js
+yo express
 ```
 
 ## Getting To Know Yeoman
@@ -28,11 +28,11 @@ yo js
 MIT © [coderkearns]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-js.svg
-[npm-url]: https://npmjs.org/package/generator-js
-[travis-image]: https://travis-ci.com/coderkearns/generator-js.svg?branch=master
-[travis-url]: https://travis-ci.com/coderkearns/generator-js
-[daviddm-image]: https://david-dm.org/coderkearns/generator-js.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/coderkearns/generator-js
-[coveralls-image]: https://coveralls.io/repos/coderkearns/generator-js/badge.svg
-[coveralls-url]: https://coveralls.io/r/coderkearns/generator-js
+[npm-image]: https://badge.fury.io/js/generator-express.svg
+[npm-url]: https://npmjs.org/package/generator-express
+[travis-image]: https://travis-ci.com/coderkearns/generator-express.svg?branch=master
+[travis-url]: https://travis-ci.com/coderkearns/generator-express
+[daviddm-image]: https://david-dm.org/coderkearns/generator-express.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/coderkearns/generator-express
+[coveralls-image]: https://coveralls.io/repos/coderkearns/generator-express/badge.svg
+[coveralls-url]: https://coveralls.io/r/coderkearns/generator-express
